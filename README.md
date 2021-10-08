@@ -18,7 +18,21 @@ G- go to the last line of the document
 ```
 #NOTE:Tip Prefix a cursor movement command with a number to repeat it. For example, 4j moves down 4 lines.
 
-Insert mode - inserting/appending text
+###Insert mode - inserting/appending text
+```
+i- insert before the cursor
+10/9/2014 Vim Cheat Sheet - English
+http://vim.rtorr.com/ 2/6
+I- insert at the beginning of the line
+a- insert (append) after the cursor
+A- insert (append) at the end of the line
+o- append (open) a new line below the current line
+O- append (open) a new line above the current line
+ea- insert (append) at the end of the word
+Esc- exit insert mode
+
+```
+
 #Editing
 ```
 r- replace a single character
