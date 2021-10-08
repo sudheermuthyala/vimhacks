@@ -1,4 +1,5 @@
 ## Cursor movement
+```
 h- move cursor left
 j- move cursor down
 k- move cursor up
@@ -14,6 +15,7 @@ B- jump backwards to the start of a word (words can contain punctuation)
 $- jump to the end of the line
 G- go to the last line of the document
 5G- go to line 5
+```
 #NOTE:Tip Prefix a cursor movement command with a number to repeat it. For example, 4j moves down 4 lines.
 
 Insert mode - inserting/appending text
