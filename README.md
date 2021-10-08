@@ -63,3 +63,5 @@ gTor :tabprevor :tabp- move to the previous tab
 :tabonlyor :tabo- close all tabs except for the current one
 ```
 
+###vim-cheat-sheet
+https://vim.rtorr.com/
