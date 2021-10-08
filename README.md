@@ -1,3 +1,22 @@
+## Cursor movement
+h- move cursor left
+j- move cursor down
+k- move cursor up
+l- move cursor right
+w- jump forwards to the start of a word
+W- jump forwards to the start of a word (words can contain punctuation)
+e- jump forwards to the end of a word
+E- jump forwards to the end of a word (words can contain punctuation)
+b- jump backwards to the start of a word
+B- jump backwards to the start of a word (words can contain punctuation)
+0- jump to the start of the line
+^- jump to the first non-blank character of the line
+$- jump to the end of the line
+G- go to the last line of the document
+5G- go to line 5
+#NOTE:Tip Prefix a cursor movement command with a number to repeat it. For example, 4j moves down 4 lines.
+
+Insert mode - inserting/appending text
 #Editing
 ```
 r- replace a single character
